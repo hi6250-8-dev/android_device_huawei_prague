@@ -32,6 +32,33 @@ odm/etc/camera/mmi7cm/prague_ov12a10_liteon/mmi7cmConfig.xml
 odm/etc/camera/mmi7cm/prague_ov12a10_sunny/mmi7cmConfig.xml
 odm/etc/camera/mmi7cm/device.config
 
+# Camera hwcam
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.HI843_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX219_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX219_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX386E3_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX386E3_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX486_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.IMX486_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.OV12870E3_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.OV12A10_FOXCONN.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.OV12A10_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.OV12A10_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.p.OV8856_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.HI843_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX219_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX219_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX386E3_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX386E3_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX486_OFILM.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.IMX486_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.OV12870E3_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.OV12A10_FOXCONN.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.OV12A10_LITEON.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.OV12A10_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.PRAGUE.s.OV8856_SUNNY.so
+odm/lib64/hwcam/hwcam.hi6250.m.PRAGUE.so
+
 # Touchscreen firmware
 odm/etc/firmware/ts/prague_CYTT21403_default.bin
 product/etc/firmware/ts/prague_CYTT21403_default.bin
