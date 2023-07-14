@@ -10,7 +10,7 @@ DEVICE_PATH := device/huawei/prague
 include device/huawei/hi6250-8-common/BoardConfigCommon.mk
 
 # Display
-TARGET_SCREEN_DENSITY := 480
+TARGET_SCREEN_DENSITY := 460
 
 # Inherit the proprietary files
 include vendor/huawei/prague/BoardConfigVendor.mk
