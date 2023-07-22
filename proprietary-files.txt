@@ -3,7 +3,6 @@
 # Audio configs
 odm/etc/audio/algorithm/algorithm_PRAGUE_normal.xml
 odm/etc/audio/dts/dts_PRAGUE_normal.xml
-odm/etc/audio/hi6402/mixer_volumes_VENUS_ce.xml
 odm/etc/audio/hissc/mixer_paths_PRAGUE.xml
 odm/etc/audio/hissc/mixer_volumes_PRAGUE_ce.xml
 odm/etc/audio/hissc/mixer_volumes_PRAGUE_cmcciot.xml
