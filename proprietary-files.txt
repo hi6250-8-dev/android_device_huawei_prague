@@ -63,6 +63,4 @@ product/etc/nfc/libnfc_brcm_pra_L31.conf:vendor/etc/libnfc-brcm.conf
 product/etc/nfc/libnfc_nxp_pra_L31.conf:vendor/etc/libnfc-nxp.conf
 
 # Touchscreen firmware
-odm/etc/firmware/ts/prague_CYTT21403_default.bin
-product/etc/firmware/ts/prague_CYTT21403_default.bin
-vendor/firmware/ts/prague_CYTT21403_default.bin
+odm/etc/firmware/ts/prague_CYTT21403_default.bin:odm/firmware/ts/prague_CYTT21403_default.bin
