@@ -17,6 +17,9 @@ function blob_fixup() {
         vendor/etc/libnfc-brcm.conf)
             sed -i 's\/data/nfc\/data/vendor/nfc\g' "${2}"
             ;;
+        vendor/etc/libnfc-nxp.conf)
+            sed -i 's|libpn551_fw_10_05_03_64bits.so|libpn551_fw.so|g' "${2}"
+            ;;
         vendor/etc/camera/*|odm/etc/camera/*)
             sed -i 's/gb2312/iso-8859-1/g' "${2}"
             sed -i 's/GB2312/iso-8859-1/g' "${2}"
