@@ -20,11 +20,6 @@ function blob_fixup() {
         vendor/etc/libnfc-nxp.conf)
             sed -i 's|libpn551_fw_10_05_03_64bits.so|libpn551_fw.so|g' "${2}"
             ;;
-        odm/etc/camera/*)
-            sed -i 's/gb2312/iso-8859-1/g' "${2}"
-            sed -i 's/GB2312/iso-8859-1/g' "${2}"
-            sed -i 's/xmlversion/xml version/g' "${2}"
-            ;;
     esac
 }
 
