@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from PRA-LX1-user 8.0.0 HUAWEIPRA-LX1 384(C432) release-keys
+# All unpinned blobs below are extracted from PRA-LX1-user 8.0.0 HUAWEIPRA-LX1 416(C185) release-keys
 
 # Audio configs
 odm/etc/audio/algorithm/algorithm_PRAGUE_normal.xml
